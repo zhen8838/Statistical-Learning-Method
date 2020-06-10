@@ -12,3 +12,4 @@
 | [支持向量机](https://zhen8838.github.io/2020/06/01/statis-learn-cp6/) | ![](gif/SVM.gif)                         |
 | [提升方法](https://zhen8838.github.io/2020/06/06/statis-learn-cp7/)   | ![](gif/Adaboost.gif)                    |
 | [EM算法](https://zhen8838.github.io/2020/06/07/statis-learn-cp8/)     | ![](gif/ExpectationMaximization.gif) |
+| [隐马尔可夫](https://zhen8838.github.io/2020/06/10/statis-learn-cp9/)     | ![](gif/HMM_viterbi.gif) |
