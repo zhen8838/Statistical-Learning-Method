@@ -17,3 +17,4 @@
 | [条件随机场](https://zhen8838.github.io/2020/06/13/statis-learn-cp10/) | ![](gif/crf.gif)                     |
 | [聚类方法](https://zhen8838.github.io/2020/06/16/statis-learn-cp11/)   | ![](gif/Kmeans.gif)                  |
 | 奇异值分解                                                             | ![](gif/SVD.gif)                     |
+| PCA                                                                    | ![](gif/PCA.gif)                     |
