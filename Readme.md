@@ -19,3 +19,4 @@
 | 奇异值分解                                                             | ![](gif/SVD.gif)                     |
 | PCA                                                                    | ![](gif/PCA.gif)                     |
 | LSA                                                                    | ![](gif/LSA.png)                     |
+| [PLSA](https://zhen8838.github.io/2020/07/21/statis-learn-cp15/)       | ![](gif/PLSA.gif)                    |
