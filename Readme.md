@@ -20,3 +20,4 @@
 | PCA                                                                    | ![](gif/PCA.gif)                     |
 | LSA                                                                    | ![](gif/LSA.png)                     |
 | [PLSA](https://zhen8838.github.io/2020/07/21/statis-learn-cp15/)       | ![](gif/PLSA.gif)                    |
+| [MCMC](https://zhen8838.github.io/2020/07/28/statis-learn-cp16/)       | ![](gif/MCMC.gif)                    |
