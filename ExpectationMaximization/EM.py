@@ -78,7 +78,6 @@ class GMM(BaseModel):
     z = z.reshape((intervals, intervals))
 
     fig, ax = plt.subplots()
-    plt.tight_layout()
     fig.set_tight_layout(True)
     ax: plt.Axes
     ax.scatter(X[:, 0], X[:, 1], alpha=0.2)
